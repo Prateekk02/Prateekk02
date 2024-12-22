@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/codewalker66" target="blank"><img src="https://img.shields.io/twitter/follow/codewalker66?logo=twitter&style=for-the-badge" alt="codewalker66" /></a> </p>
 
-- 🔭 I’m currently working on [safePay](https://github.com/Prateekk02/safePay)
+- 🔭 I’m currently working on cool projects.
 
-- 🌱 I’m currently learning **Django, Gen AI and Computer Vision**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Python, Django, Nodejs, Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, Gen AI, Reactjs**
 
 - 📫 How to reach me **prateekk02.kumar@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Prateekk02/safePay](https://github.com/Prateekk02/safePay)
 
 - ⚡ Fun fact **I can sing, play guitar :)**
 
